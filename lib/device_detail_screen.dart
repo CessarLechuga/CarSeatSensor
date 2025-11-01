@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 // -------------------------------------------------
 // 1. Moved Device class here so both
-//    screens can access it without any errors.
+//    screens can access it without any errors
 // -------------------------------------------------
 class Device {
   String name;
